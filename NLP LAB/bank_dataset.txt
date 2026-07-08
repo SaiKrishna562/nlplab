@@ -1,0 +1,50 @@
+financial	I deposited money in the bank.
+financial	She withdrew cash from the bank.
+financial	The bank approved my loan.
+financial	He opened a savings account.
+financial	The bank offers low interest rates.
+financial	Customers waited outside the bank.
+financial	The manager works at the bank.
+financial	He visited the bank to transfer money.
+financial	The bank issued a credit card.
+financial	She took a home loan from the bank.
+financial	The bank provides online banking.
+financial	They deposited their salary in the bank.
+financial	The bank sanctioned the education loan.
+financial	He went to the bank to cash a cheque.
+financial	The bank has many ATMs.
+financial	She opened a fixed deposit.
+financial	The bank balance is low.
+financial	The bank manager approved the application.
+financial	He works in a private bank.
+financial	The national bank opened a new branch.
+financial	Money was transferred through the bank.
+financial	She visited the bank yesterday.
+financial	The bank employee was helpful.
+financial	The bank rejected the loan request.
+financial	The company has an account in the bank.
+river	We sat on the river bank.
+river	The children played on the river bank.
+river	Fish swam near the bank.
+river	The trees grew along the river bank.
+river	The muddy bank was slippery.
+river	Birds rested on the river bank.
+river	They walked beside the bank of the river.
+river	The bank was covered with grass.
+river	A boat reached the river bank.
+river	The fisherman stood on the bank.
+river	The flood damaged the river bank.
+river	Flowers bloomed along the bank.
+river	The dog ran beside the river bank.
+river	People enjoyed the sunset from the bank.
+river	The bank was full of stones.
+river	The river overflowed its bank.
+river	Children collected shells near the bank.
+river	The bank was wet after the rain.
+river	The picnic was held on the river bank.
+river	The ducks swam close to the bank.
+river	The river bank looked beautiful.
+river	We walked along the grassy bank.
+river	The bank was steep and rocky.
+river	The stream flowed beside the bank.
+river	The deer drank water near the bank.
